@@ -1,0 +1,11 @@
+maak een lege "Folder" waar je jouw project gaat steken
+cd Folder
+git clone "URL"						-	Om het project te clonen
+git add .							-	Om de bestanden die nieuw aangemaakt zijn, te importen
+git commit -m "message"				-	Commit
+git push							-	Pushen
+
+
+
+
+npx create-react-app ReactApp		-	ReactApp aanmaken
